@@ -26,7 +26,7 @@ int main()
        case 4: resultado = num1/num2;
        break;
        default:
-       break;
+        break;
    }
    cout<< "El resultado es: "<<resultado<<endl;
    system("pause");
