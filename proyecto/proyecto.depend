@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677554656 source:c:\users\erick solares\documents\curso java\proyecto\main.cpp
+	<iostream>
+	<string>
+	"Libreria.h"
+
+1677557201 c:\users\erick solares\documents\curso java\proyecto\libreria.h
+
